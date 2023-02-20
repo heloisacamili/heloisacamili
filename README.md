@@ -24,4 +24,4 @@
  
  ##
  
-
+![Snake gif](https://github.com/heloisacamili/heloisacamili/blob/output/github-contribution-grid-snake.svg)
