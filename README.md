@@ -4,6 +4,11 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloisacamili&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
+<div>
+  <a href="https://github.com/heloisacamili">
+    <img height="180em" src="https://camo.githubusercontent.com/c25f56d06dfdd3ef5470580d71597f029146db037b3f23bdebb1432dc74a4ce3/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6d6172636f73726a616c766573267468656d653d64726163756c61"/>
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
