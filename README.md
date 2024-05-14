@@ -1,10 +1,10 @@
-<div>
+<div align="center">
   <a href="https://github.com/heloisacamili">
     <img align="center" width="380" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=heloisacamili&theme=dark"/>
-    <img align="center" width="380" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloisacamili&layout=compact&langs_count=16&theme=dark"/>
+    <img align="center" width="380" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloisacamili&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
