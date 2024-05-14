@@ -1,6 +1,7 @@
 <div>
   <a href="https://github.com/heloisacamili">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloisacamili&layout=compact&langs_count=16&theme=dark"/>
+    <img align="center" width="380" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=heloisacamili&theme=dark"/>
+    <img align="center" width="380" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloisacamili&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
